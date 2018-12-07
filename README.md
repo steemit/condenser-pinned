@@ -1,6 +1,6 @@
-To modify a pinned post:
+## To modify a pinned post:
 
-1. Go to [https://github.com/steemit/condenser-pinned/blob/master/pinned-posts.json](https://github.com/steemit/condenser-pinned/blob/master/pinned-posts.json)
+1. Open [pinned-posts.json](https://github.com/steemit/condenser-pinned/blob/master/pinned-posts.json)
 2. Tap the pencil icon to edit
 3. Insert the URL of the post you want to pin within the `[]`
 
@@ -13,7 +13,7 @@ For example, to pin a post:
 
 To replace a pinned post, simply edit the URL above.
 
-To remove a pinned post so no pinned post displays, remove the URL, e.g.
+To remove a pinned post (so no pinned post displays), remove the URL, e.g.
 
     {
       "pinned_posts": [
