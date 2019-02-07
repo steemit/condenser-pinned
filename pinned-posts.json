@@ -3,6 +3,9 @@
   ],
   "notices": [
     {
+      "permalink": "/steem/@steemitblog/engineering-update-cost-reductions-rocksdb-mira-condenser-split"
+    },
+    {
       "permalink": "/utopian-io/@steemcleaners/phishing-warning"
     },
     {
@@ -17,8 +20,5 @@
     {
       "permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
     },
-    {
-      "permalink": "/hivemind/@steemitblog/hivemind-is-live"
-    }
   ]
 }
