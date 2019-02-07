@@ -2,6 +2,9 @@
   "pinned_posts": [
   ],
   "notices": [
+     {
+      "permalink": "/blocktrades/@blocktrades/blocktrades-beginning-development-of-steem-proposal-system"
+    },
     {
       "permalink": "/steem/@steemitblog/engineering-update-cost-reductions-rocksdb-mira-condenser-split"
     },
