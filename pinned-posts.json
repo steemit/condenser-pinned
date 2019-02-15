@@ -2,6 +2,9 @@
   "pinned_posts": [
   ],
   "notices": [
+    {
+      "permalink": "/dtube/@pennsif/nfz365i0"
+    },
     { 
       "permalink": "/steemit/@steemitblog/steemit-engineering-update-continued-progress"
     },
@@ -10,9 +13,6 @@
     },
     {
       "permalink": "/steemdao/@blocktrades/update-on-steem-proposal-system-steeem-dao"
-    },
-    {
-      "permalink": "/steem/@steemitblog/engineering-update-cost-reductions-rocksdb-mira-condenser-split"
     },
     {
       "permalink": "/utopian-io/@steemcleaners/phishing-warning"
