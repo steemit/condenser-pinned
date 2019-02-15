@@ -1,24 +1,26 @@
 {
-  "pinned_posts": [
-  ],
-  "notices": [
+	"pinned_posts": [],
+	"notices": [
     {
       "permalink": "/dtube/@pennsif/nfz365i0"
-    },
-    { 
-      "permalink": "/steemit/@steemitblog/steemit-engineering-update-continued-progress"
-    },
+		},
     {
-      "permalink": "/steemalliance/@steemalliance/official-call-for-structure-proposals-or-stage-one"
-    },
-    {
-      "permalink": "/steemdao/@blocktrades/update-on-steem-proposal-system-steeem-dao"
-    },
-    {
-      "permalink": "/utopian-io/@steemcleaners/phishing-warning"
-    },
-    {
-      "permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
-    }
-  ]
+			"permalink": "/steemit/@steemitblog/steemit-engineering-update-continued-progress"
+		},
+		{
+			"permalink": "/steemalliance/@steemalliance/official-call-for-structure-proposals-or-stage-one"
+		},
+		{
+			"permalink": "/steemdao/@blocktrades/update-on-steem-proposal-system-steeem-dao"
+		},
+		{
+			"permalink": "/steem/@steemitblog/engineering-update-cost-reductions-rocksdb-mira-condenser-split"
+		},
+		{
+			"permalink": "/utopian-io/@steemcleaners/phishing-warning"
+		},
+		{
+			"permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
+		}
+	]
 }
