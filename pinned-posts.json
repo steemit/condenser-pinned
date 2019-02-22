@@ -1,7 +1,10 @@
 {
 	"pinned_posts": [],
 	"notices": [
-    		{
+		{
+			"permalink": "/blocktrades/@blocktrades/update-on-steem-proposal-system-steem-dao-week-2"
+		},
+		{
       			"permalink": "/steem/@steemitblog/steem-basics-understanding-private-keys-part-1"
 		},
 		{
@@ -9,9 +12,6 @@
 		},
 		{
 			"permalink": "/steemalliance/@steemalliance/official-call-for-structure-proposals-or-stage-one"
-		},
-		{
-			"permalink": "/steemdao/@blocktrades/update-on-steem-proposal-system-steeem-dao"
 		},
 		{
 			"permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
