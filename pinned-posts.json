@@ -1,16 +1,16 @@
 {
 	"pinned_posts": [
-		"/freedomex/@steem.marketing/new-fiat-to-steem-gateway"
+
 	],
 	"notices": [
 		{
+			"permalink": "/freedomex/@steem.marketing/new-fiat-to-steem-gateway"
+		},
+		{
+			"permalink": "/poll/@steemitblog/poll-flags-or-downvotes"
+		},
+		{
 			"permalink": "/dtube/@steemitblog/steemit-community-contributions-d-tube-embeds"
-		},
-		{
-			"permalink": "/steem/@steem.marketing/the-steemit-podcast-ep-2-oracle-d"
-		},
-		{
-			"permalink": "/steem/@steemitblog/denial-of-service-vulnerability-fix"
 		},
 		{
 			"permalink": "/steem/@steemitblog/happy-birthday-steem"
