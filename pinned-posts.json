@@ -1,15 +1,14 @@
 {
 	"pinned_posts": [
-		"/decentralization/@thesafenetwork/safe-network-dev-update-may-2-2019",
-		"/marketing/@steem.marketing/steemit-s-first-twitter-ad-campaign",
-		"/freedomex/@steemitblog/downvotes-added-community-contributions-bug-fixes"
+		"/steem/@justineh/let-s-make-some-steem-marketing-memes-social-media-campaign",
+		"/decentralization/@thesafenetwork/safe-network-dev-update-may-2-2019"
 	],
 	"notices": [
 		{
-			"permalink": "/freedomex/@steemitblog/downvotes-added-community-contributions-bug-fixes"
+			"permalink": "/marketing/@steem.marketing/steemit-s-first-twitter-ad-campaign"
 		},
 		{
-			"permalink": "/freedomex/@steem.marketing/new-fiat-to-steem-gateway"
+			"permalink": "/freedomex/@steemitblog/downvotes-added-community-contributions-bug-fixes"
 		},
 		{
 			"permalink": "/dtube/@steemitblog/steemit-community-contributions-d-tube-embeds"
