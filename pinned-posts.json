@@ -1,9 +1,12 @@
 {
 	"pinned_posts": [
-		"/steemit/@steem.marketing/interview-with-the-managing-director-of-steemit-elizabeth-powell",
+		"/steemit/@steemitblog/steemit-update-leaving-survive-mode-and-beta",
 		"/steemfest/@roelandp/save-the-date-steemfest-bangkok-thailand-6-7-8-9-10-november-2019-let-s-go"
 	],
 	"notices": [
+		{
+			"permalink": "/steemit/@steem.marketing/interview-with-the-managing-director-of-steemit-elizabeth-powell"
+		},
 		{
 			"permalink": "/feature/@steemitblog/exploring-featured-posts"
 		},
