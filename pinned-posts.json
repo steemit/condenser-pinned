@@ -5,6 +5,9 @@
 	],
 	"notices": [
 		{
+			"permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
+		},
+		{
 			"permalink": "/steemit/@steem.marketing/interview-with-the-managing-director-of-steemit-elizabeth-powell"
 		},
 		{
@@ -12,9 +15,6 @@
 		},
 		{
 			"permalink": "/mira/@steemitblog/mira-soft-roll-out-begins"
-		},
-		{
-			"permalink": "/freedomex/@steemitblog/downvotes-added-community-contributions-bug-fixes"
 		},
 		{
 			"permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
