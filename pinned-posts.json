@@ -1,9 +1,12 @@
 {
 	"pinned_posts": [
-		"/steemmonsters/@steemmonsters/steem-monsters-1-year-anniversary-post-promotion",
-		"/steem/@vandeberg/downvote-pool-deep-dive"
+		"/keychain/@steemitblog/keychain-added-to-steemit-com",
+		"/steemmonsters/@steemmonsters/steem-monsters-1-year-anniversary-post-promotion"
 	],
 	"notices": [
+		{
+			"permalink": "/steem/@vandeberg/downvote-pool-deep-dive"
+		},
 		{
 			"permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
 		},
@@ -12,9 +15,6 @@
 		},
 		{
 			"permalink": "/steemit/@steemitblog/steemit-update-leaving-survive-mode-and-beta"
-		},
-		{
-			"permalink": "/mira/@steemitblog/mira-soft-roll-out-begins"
 		},
 		{
 			"permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
