@@ -1,9 +1,12 @@
 {
 	"pinned_posts": [
-		"/keychain/@steemitblog/keychain-added-to-steemit-com",
-		"/steem/@vandeberg/downvote-pool-deep-dive"
+		"/marketing/@steem.marketing/tsp-ep-6-interview-w-dave-balter-team-behind-fcas-score",
+		"/keychain/@steemitblog/keychain-added-to-steemit-com"
 	],
 	"notices": [
+		{	
+			"permalink": "/steem/@vandeberg/downvote-pool-deep-dive"
+		},
 		{
 			"permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
 		},
