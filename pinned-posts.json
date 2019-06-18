@@ -1,22 +1,19 @@
 {
 	"pinned_posts": [
-		"/steemit/@steemitblog/3-month-retrospective",
-		"/marketing/@steemitblog/mira-public-release",
-		"/hf21/@timcliff/hardfork-21-steem-proposal-system-sps-economic-improvement-proposal-eip"
 	],
 	"notices": [
 		
 		{
-			"permalink": "/marketing/@steem.marketing/tsp-ep-6-interview-w-dave-balter-team-behind-fcas-score"
+			"permalink": "/steemit/@steemitblog/3-month-retrospective"
+		},
+		{
+			"permalink": "/marketing/@steemitblog/mira-public-release"
 		},
 		{	
 			"permalink": "/steem/@vandeberg/downvote-pool-deep-dive"
 		},
 		{
 			"permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
-		},
-		{
-			"permalink": "/steemit/@steem.marketing/interview-with-the-managing-director-of-steemit-elizabeth-powell"
 		},
 		{
 			"permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
