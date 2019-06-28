@@ -1,26 +1,32 @@
 {
-	"pinned_posts": [
-		"/steem/@steemitblog/smart-media-tokens-are-coming",
-		"/steem/@steemitblog/steem-fcas-score-upgraded-to-a",
-		"/steem/@appics/register-now-for-the-appics-token-swap-or-new-ticker-apx",
-		"/steemit/@steemitblog/community-contributions-to-steemit-com"
-	],
-	"notices": [
-		
-		{
-			"permalink": "/steem/@steemitblog/hf21-sps-and-eip-explained"
-		},
-		{
-			"permalink": "/steemit/@steemitblog/steemit-update-hf21-testnet-sps-eip-rewards-api-smts"
-		},
-		{	
-			"permalink": "/steem/@vandeberg/downvote-pool-deep-dive"
-		},
-		{
-			"permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
-		},
-		{
-			"permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
-		}
-	]
+  "pinned_posts": [
+    "/steem/@steemitblog/smart-media-tokens-are-coming",
+    "/steem/@steemitblog/steem-fcas-score-upgraded-to-a",
+    "/steem/@appics/register-now-for-the-appics-token-swap-or-new-ticker-apx",
+    "/steemit/@steemitblog/community-contributions-to-steemit-com"
+  ],
+  "featured_posts": [
+    "/steem/@steemitblog/smart-media-tokens-are-coming",
+    "/steem/@steemitblog/steem-fcas-score-upgraded-to-a",
+    "/steem/@appics/register-now-for-the-appics-token-swap-or-new-ticker-apx",
+    "/steemit/@steemitblog/community-contributions-to-steemit-com"
+  ],
+  "promoted_posts": [],
+  "notices": [
+    {
+      "permalink": "/steem/@steemitblog/hf21-sps-and-eip-explained"
+    },
+    {
+      "permalink": "/steemit/@steemitblog/steemit-update-hf21-testnet-sps-eip-rewards-api-smts"
+    },
+    {
+      "permalink": "/steem/@vandeberg/downvote-pool-deep-dive"
+    },
+    {
+      "permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
+    },
+    {
+      "permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
+    }
+  ]
 }
