@@ -1,19 +1,19 @@
 {
 	"pinned_posts": [
-		"/steem/@steemitblog/smart-media-tokens-are-coming",
-		"/steem/@steemitblog/steem-fcas-score-upgraded-to-a",
+		"/communities/@steemitblog/feedback-wanted-communities-design-document",
+		"/smt/@gerbino/simplifying-the-smt-protocol",
 		"/steemit/@steemitblog/community-contributions-to-steemit-com"
 	],
 	"notices": [
 		
 		{
-			"permalink": "/steem/@steemitblog/hf21-sps-and-eip-explained"
+			"permalink": "/steem/@steemitblog/smart-media-tokens-are-coming"
 		},
 		{
-			"permalink": "/steemit/@steemitblog/steemit-update-hf21-testnet-sps-eip-rewards-api-smts"
+			"permalink": "/steem/@steemitblog/steem-fcas-score-upgraded-to-a"
 		},
-		{	
-			"permalink": "/steem/@vandeberg/downvote-pool-deep-dive"
+		{
+			"permalink": "/steem/@steemitblog/hf21-sps-and-eip-explained"
 		},
 		{
 			"permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
