@@ -1,14 +1,13 @@
 {
+
   "pinned_posts": [
-    "/steem/@steemitblog/smart-media-tokens-are-coming",
-    "/steem/@steemitblog/steem-fcas-score-upgraded-to-a",
-    "/steem/@appics/register-now-for-the-appics-token-swap-or-new-ticker-apx",
+    "/communities/@steemitblog/feedback-wanted-communities-design-document",
+    "/smt/@gerbino/simplifying-the-smt-protocol",
     "/steemit/@steemitblog/community-contributions-to-steemit-com"
   ],
   "featured_posts": [
-    "/steem/@steemitblog/smart-media-tokens-are-coming",
-    "/steem/@steemitblog/steem-fcas-score-upgraded-to-a",
-    "/steem/@appics/register-now-for-the-appics-token-swap-or-new-ticker-apx",
+    "/communities/@steemitblog/feedback-wanted-communities-design-document",
+    "/smt/@gerbino/simplifying-the-smt-protocol",
     "/steemit/@steemitblog/community-contributions-to-steemit-com"
   ],
   "promoted_posts": [],
