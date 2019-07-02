@@ -1,19 +1,21 @@
 {
   "featured_posts": [
+    "/hf21/@steemitblog/hf21-addition-vote-window-change",
     "/communities/@steemitblog/feedback-wanted-communities-design-document",
-    "/smt/@gerbino/simplifying-the-smt-protocol",
-    "/steemit/@steemitblog/community-contributions-to-steemit-com"
+    "/smt/@gerbino/simplifying-the-smt-protocol"
   ],
-  "promoted_posts": [],
+  "promoted_posts": [
+    "/amfeix/@amfeix/amfeix-the-first-blockchain-fund-built-on-smart-contracts"
+  ],
   "notices": [
+    {
+      "permalink": "/steemit/@steemitblog/community-contributions-to-steemit-com"
+    },
     {
       "permalink": "/steem/@steemitblog/hf21-sps-and-eip-explained"
     },
     {
       "permalink": "/steemit/@steemitblog/steemit-update-hf21-testnet-sps-eip-rewards-api-smts"
-    },
-    {
-      "permalink": "/steem/@vandeberg/downvote-pool-deep-dive"
     },
     {
       "permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
