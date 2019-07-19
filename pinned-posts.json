@@ -1,13 +1,14 @@
 {
   "featured_posts": [
+    "/steemit/@justinw/my-background-and-vision-for-steem",
     "/openmic/@skycorridors/omg-i-won-steemit-open-mic-this-week",
-    "/steemit/@steemitblog/announcing-steemit-s-new-delegation-application-process",
-    "/steemdev/@eonwarped/testnet-testing-tools"
+    "/steemit/@steemitblog/announcing-steemit-s-new-delegation-application-process"
+   
   ],
   "promoted_posts": [],
   "notices": [
     {
-      "permalink": "/steemit/@steemitblog/community-contributions-to-steemit-com"
+      "permalink": "/steemdev/@eonwarped/testnet-testing-tools"
     },
     {
       "permalink": "/steem/@steemitblog/hf21-sps-and-eip-explained"
