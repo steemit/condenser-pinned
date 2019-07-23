@@ -1,20 +1,20 @@
 {
   "featured_posts": [
+    "/palnet/@buckydurddle/around-the-block-with-guest-andrarchy-of-steemit-inc-episode-2",
     "/steem/@matt-a/go-vote-for-steemit-as-social-network-of-the-year-on-hackernoon-s-the-noonies-awards",
-    "/steem/@therealwolf/why-you-should-consider-steem-as-blockchain-for-your-project-business",
-    "/steemit/@justinw/my-background-and-vision-for-steem"
+    "/steem/@therealwolf/why-you-should-consider-steem-as-blockchain-for-your-project-business"
    
   ],
   "promoted_posts": [],
   "notices": [
     {
+      "permalink": "/steemit/@justinw/my-background-and-vision-for-steem"
+    },
+    {
       "permalink": "/steemdev/@eonwarped/testnet-testing-tools"
     },
     {
       "permalink": "/steem/@steemitblog/hf21-sps-and-eip-explained"
-    },
-    {
-      "permalink": "/steemit/@steemitblog/steemit-update-hf21-testnet-sps-eip-rewards-api-smts"
     },
     {
       "permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
