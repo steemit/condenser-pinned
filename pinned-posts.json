@@ -1,19 +1,19 @@
 {
   "featured_posts": [
-    "/witness/@themarkymark/follow-all-witness-updates-with-witnessnews",
-    "/poll/@steemitblog/follow-up-poll-expanding-mute",
-    "/steem/@steemitblog/our-plan-for-onboarding-the-masses"
+    "/hf21/@steemitblog/hf21-release-tagged",
+    "/palnet/@buckydurddle/around-the-block-with-vandeberg-steemit-inc-s-senior-bc-engineer-episode-3",
+    "/witness/@themarkymark/follow-all-witness-updates-with-witnessnews"
   ],
   "promoted_posts": [],
   "notices": [
-     {
+    {
+      "permalink": "/steem/@steemitblog/our-plan-for-onboarding-the-masses"
+    },
+    {
       "permalink": "/committee/@steemitblog/2vjhxd-announcing-steemit-s-new-delegation-application-process"   
     },
     {
       "permalink": "/steemit/@gerbino/my-background-and-vision-for-steem" 
-    },
-    {
-      "permalink": "/steemdev/@eonwarped/testnet-testing-tools"
     },
     {
       "permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
