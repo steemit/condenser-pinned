@@ -1,16 +1,16 @@
 {
   "featured_posts": [
-    "/steem/@steemitblog/our-plan-for-onboarding-the-masses",
-    "/committee/@steemitblog/2vjhxd-announcing-steemit-s-new-delegation-application-process",
-    "/steemit/@gerbino/my-background-and-vision-for-steem"   
+    "/witness/@themarkymark/follow-all-witness-updates-with-witnessnews",
+    "/poll/@steemitblog/follow-up-poll-expanding-mute",
+    "/steem/@steemitblog/our-plan-for-onboarding-the-masses"
   ],
   "promoted_posts": [],
   "notices": [
      {
-      "permalink": "/steem/@matt-a/go-vote-for-steemit-as-social-network-of-the-year-on-hackernoon-s-the-noonies-awards"
+      "permalink": "/committee/@steemitblog/2vjhxd-announcing-steemit-s-new-delegation-application-process"   
     },
     {
-      "permalink": "/steemit/@justinw/my-background-and-vision-for-steem"
+      "permalink": "/steemit/@gerbino/my-background-and-vision-for-steem" 
     },
     {
       "permalink": "/steemdev/@eonwarped/testnet-testing-tools"
