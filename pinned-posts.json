@@ -1,20 +1,21 @@
 {
   "featured_posts": [
+    "/steemcleaners/@steemcleaners/impersonator-warning",
     "/steemit/@steemitblog/steemit-retrospective-for-july",
-    "/smt/@steemitblog/smt-burnup-update-july",
-    "/hf21/@steemitblog/hf21-release-tagged"
+    "/smt/@steemitblog/smt-burnup-update-july"
+    
 
   ],
   "promoted_posts": [],
   "notices": [
     {
+      "permalink": "/hf21/@steemitblog/hf21-release-tagged" 
+    },
+    {
       "permalink": "/steem/@steemitblog/our-plan-for-onboarding-the-masses"
     },
     {
       "permalink": "/committee/@steemitblog/2vjhxd-announcing-steemit-s-new-delegation-application-process"   
-    },
-    {
-      "permalink": "/steemit/@gerbino/my-background-and-vision-for-steem" 
     },
     {
       "permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
