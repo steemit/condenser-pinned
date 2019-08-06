@@ -1,14 +1,18 @@
 {
   "featured_posts": [
+    "/steemit/@buckydurddle/around-the-block-show-recording-with-guest-andrarchy-of-steemit-inc-episode-2",
     "/smt/@steemitblog/smt-burnup-rc-delegation-pools",
-    "/delegationapp/@delegationtrust/delegation-committee-first-communication",
-    "/steemit/@steemitblog/steemit-retrospective-for-july"
+    "/delegationapp/@delegationtrust/delegation-committee-first-communication"
+    
     
     
 
   ],
   "promoted_posts": [],
   "notices": [
+    {
+      "permalink": "/steemit/@steemitblog/steemit-retrospective-for-july"
+    },
     {
       "permalink": "/smt/@steemitblog/smt-burnup-update-july"   
     },
@@ -17,9 +21,6 @@
     },
     {
       "permalink": "/steem/@steemitblog/our-plan-for-onboarding-the-masses"
-    },
-    {
-      "permalink": "/steem/@steemitblog/improving-the-economics-of-steem-a-community-proposal"
     },
     {
       "permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
