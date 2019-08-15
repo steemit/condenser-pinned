@@ -1,20 +1,21 @@
 {
   "featured_posts": [
+    "https://steemit.com/steem/@steem.marketing/resource-credits-explained-by-senior-blockchain-engineer-vandeberg",
     "/esteem/@steem.marketing/esteem-interview-with-the-founder-good-karma",
-    "/smt/@steemitblog/part-3-of-our-plan-to-onboard-the-masses-smart-media-tokens",
-    "/smt/@steemitblog/smt-burn-up-ico-issues-complete-rc-delegation-pools-functioning"
+    "/smt/@steemitblog/part-3-of-our-plan-to-onboard-the-masses-smart-media-tokens"
+    
     
   ],
   "promoted_posts": [],
   "notices": [
     {
+      "permalink": "/smt/@steemitblog/smt-burn-up-ico-issues-complete-rc-delegation-pools-functioning"   
+    },
+    {
       "permalink": "/communities/@steemitblog/part-2-of-our-plan-to-onboard-the-masses"
     },
     {
       "permalink": "/steemit/@steemitblog/steemit-retrospective-for-july"
-    },
-    {
-      "permalink": "/smt/@steemitblog/smt-burnup-update-july"   
     },
     {
       "permalink": "/hf21/@steemitblog/hf21-release-tagged" 
