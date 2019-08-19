@@ -1,12 +1,15 @@
 {
   "featured_posts": [
+    "/tsp/@steem.marketing/tsp-interview-with-dr-dave-roberts-comp-sci-professor-and-startup-founder",
     "/smt/@steemitblog/smt-burn-up-refactor",
-    "/meetup/@pennsif/calendar-of-steem-meetups-and-events-16-august-2019",
-    "https://steemit.com/steem/@steem.marketing/resource-credits-explained-by-senior-blockchain-engineer-vandeberg"
+    "/meetup/@pennsif/calendar-of-steem-meetups-and-events-16-august-2019"
     
   ],
   "promoted_posts": [],
   "notices": [
+    {
+      "permalink": "https://steemit.com/steem/@steem.marketing/resource-credits-explained-by-senior-blockchain-engineer-vandeberg" 
+    },
     {
       "permalink": "/smt/@steemitblog/part-3-of-our-plan-to-onboard-the-masses-smart-media-tokens"
     },
@@ -15,9 +18,6 @@
     },
     {
       "permalink": "/communities/@steemitblog/part-2-of-our-plan-to-onboard-the-masses"
-    },
-    {
-      "permalink": "/hf21/@steemitblog/hf21-release-tagged" 
     },
     {
       "permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
