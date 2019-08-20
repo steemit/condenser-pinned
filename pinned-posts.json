@@ -1,12 +1,16 @@
 {
   "featured_posts": [
+    "/medium/@steem.marketing/steemit-now-posting-on-medium-com",
     "/tsp/@steem.marketing/tsp-interview-with-dr-dave-roberts-comp-sci-professor-and-startup-founder",
-    "/smt/@steemitblog/smt-burn-up-refactor",
-    "/meetup/@pennsif/calendar-of-steem-meetups-and-events-16-august-2019"
+    "/smt/@steemitblog/smt-burn-up-refactor"
+    
     
   ],
   "promoted_posts": [],
   "notices": [
+    {
+      "permalink": "/meetup/@pennsif/calendar-of-steem-meetups-and-events-16-august-2019"
+    },
     {
       "permalink": "https://steemit.com/steem/@steem.marketing/resource-credits-explained-by-senior-blockchain-engineer-vandeberg" 
     },
@@ -15,9 +19,6 @@
     },
     {
       "permalink": "/smt/@steemitblog/smt-burn-up-ico-issues-complete-rc-delegation-pools-functioning"   
-    },
-    {
-      "permalink": "/communities/@steemitblog/part-2-of-our-plan-to-onboard-the-masses"
     },
     {
       "permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
