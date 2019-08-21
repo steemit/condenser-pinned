@@ -1,13 +1,17 @@
 {
   "featured_posts": [
+    "/threespeak/@davidpakman/esslvfrk",
     "/medium/@steem.marketing/steemit-now-posting-on-medium-com",
-    "/tsp/@steem.marketing/tsp-interview-with-dr-dave-roberts-comp-sci-professor-and-startup-founder",
-    "/smt/@steemitblog/smt-burn-up-refactor"
+    "/tsp/@steem.marketing/tsp-interview-with-dr-dave-roberts-comp-sci-professor-and-startup-founder"
+    
     
     
   ],
   "promoted_posts": [],
   "notices": [
+    {
+      "permalink": "/smt/@steemitblog/smt-burn-up-refactor"   
+    },
     {
       "permalink": "/meetup/@pennsif/calendar-of-steem-meetups-and-events-16-august-2019"
     },
@@ -16,9 +20,6 @@
     },
     {
       "permalink": "/smt/@steemitblog/part-3-of-our-plan-to-onboard-the-masses-smart-media-tokens"
-    },
-    {
-      "permalink": "/smt/@steemitblog/smt-burn-up-ico-issues-complete-rc-delegation-pools-functioning"   
     },
     {
       "permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
