@@ -1,16 +1,15 @@
 {
   "featured_posts": [
-    "/steem/@pennsif/the-steem-news-27-august-2019",
-    "/hf21/@steemitblog/newsteem-is-live"
+    "/steem/@pennsif/the-steem-news-27-august-2019"
     
   ],
   "promoted_posts": [],
   "notices": [
     {
-      "permalink": "/smt/@steemitblog/smt-burn-up-refactor"   
+      "permalink": "/delegations/@steemitblog/delegation-issue"
     },
     {
-      "permalink": "/meetup/@pennsif/calendar-of-steem-meetups-and-events-16-august-2019"
+      "permalink": "/smt/@steemitblog/smt-burn-up-refactor"   
     },
     {
       "permalink": "https://steemit.com/steem/@steem.marketing/resource-credits-explained-by-senior-blockchain-engineer-vandeberg" 
