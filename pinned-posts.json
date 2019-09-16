@@ -1,17 +1,17 @@
 {
   "featured_posts": [
+    "/tsp/@steem.marketing/the-steemit-podcast-interview-w-justinw-and-vandeberg",
     "/ocd/@ocd/ocdb-goes-manual",
-    "/steempress/@steempress/onboarding-the-masses-steempress-updated-roadmap-and-growth-strategy",
-    "/steemdao/@steemitblog/steem-dao-ui-and-pausing-steem-sales"
+    "/steempress/@steempress/onboarding-the-masses-steempress-updated-roadmap-and-growth-strategy"
     
   ],
   "promoted_posts": [],
   "notices": [
     {
-      "permalink": "/steemit/@steemitblog/steemit-retro-august-and-hf21-22"
+      "permalink": "/steemdao/@steemitblog/steem-dao-ui-and-pausing-steem-sales"   
     },
     {
-      "permalink": "/smt/@steemitblog/smt-burn-up-refactor"   
+      "permalink": "/steemit/@steemitblog/steemit-retro-august-and-hf21-22"
     },
     {
       "permalink": "https://steemit.com/steem/@steem.marketing/resource-credits-explained-by-senior-blockchain-engineer-vandeberg" 
