@@ -1,20 +1,21 @@
 {
   "featured_posts": [
-    "/threespeak/@threespeak/welcome-communities-feature-on-3speak",
-    "/beneficiaries/@steemitblog/new-beneficiary-features-on-steemit-com",
-    "/tsp/@steem.marketing/the-steemit-podcast-interview-w-justinw-and-vandeberg"
+    "/hive/@steem.marketing/hive-communities-an-interview-w-steem-s-senior-product-engineer",
+    "/brosino/@brosino/play-games-and-earn-money-at-the-brosino",
+    "/threespeak/@threespeak/welcome-communities-feature-on-3speak"
+    
     
   ],
   "promoted_posts": [],
   "notices": [
     {
-      "permalink": "https://steemit.com/steem/@steem.marketing/resource-credits-explained-by-senior-blockchain-engineer-vandeberg" 
+      "permalink":  "/beneficiaries/@steemitblog/new-beneficiary-features-on-steemit-com"
+    },
+    {
+      "permalink": "/tsp/@steem.marketing/the-steemit-podcast-interview-w-justinw-and-vandeberg"
     },
     {
       "permalink": "/steemdao/@steemitblog/steem-dao-ui-and-pausing-steem-sales"   
-    },
-    {
-      "permalink": "/steemit/@steemitblog/steemit-retro-august-and-hf21-22"
     },
     {
       "permalink": "/smt/@steemitblog/part-3-of-our-plan-to-onboard-the-masses-smart-media-tokens"
