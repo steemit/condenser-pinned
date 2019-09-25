@@ -1,20 +1,20 @@
 {
   "featured_posts": [
+    "/steemit/@steemitblog/account-approvals-enter-thrive-mode",
     "/smt/@steemitblog/smt-burnup-reward-payouts-tick-pricing-delegation-emission-funding",
-    "/steempress/@steem.marketing/tsp-interview-w-steempress-co-founder-fredrikaa",
-    "/hive/@steem.marketing/hive-communities-an-interview-w-steem-s-senior-product-engineer"
+    "/steempress/@steem.marketing/tsp-interview-w-steempress-co-founder-fredrikaa"
     
   ],
   "promoted_posts": [],
   "notices": [
     {
+      "permalink": "/hive/@steem.marketing/hive-communities-an-interview-w-steem-s-senior-product-engineer"   
+    },
+    {
       "permalink":  "/beneficiaries/@steemitblog/new-beneficiary-features-on-steemit-com"
     },
     {
       "permalink": "/tsp/@steem.marketing/the-steemit-podcast-interview-w-justinw-and-vandeberg"
-    },
-    {
-      "permalink": "/steemdao/@steemitblog/steem-dao-ui-and-pausing-steem-sales"   
     },
     {
       "permalink": "/smt/@steemitblog/part-3-of-our-plan-to-onboard-the-masses-smart-media-tokens"
