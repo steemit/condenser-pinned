@@ -1,12 +1,15 @@
 {
   "featured_posts": [
+    "/steemit/@steem.marketing/tsp-interview-w-bobby-ong-coo-of-coingecko",
     "/steemit/@steemitblog/account-approvals-enter-thrive-mode",
-    "/smt/@steemitblog/smt-burnup-reward-payouts-tick-pricing-delegation-emission-funding",
     "/steempress/@steem.marketing/tsp-interview-w-steempress-co-founder-fredrikaa"
     
   ],
   "promoted_posts": [],
   "notices": [
+    {
+      "permalink": "/smt/@steemitblog/smt-burnup-reward-payouts-tick-pricing-delegation-emission-funding"
+    },
     {
       "permalink": "/hive/@steem.marketing/hive-communities-an-interview-w-steem-s-senior-product-engineer"   
     },
@@ -18,9 +21,6 @@
     },
     {
       "permalink": "/smt/@steemitblog/part-3-of-our-plan-to-onboard-the-masses-smart-media-tokens"
-    },
-    {
-      "permalink": "/steemit/@ned/the-guiding-mission-vision-and-values-of-steemit-inc"
     }
   ]
 }
