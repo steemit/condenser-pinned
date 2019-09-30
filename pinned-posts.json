@@ -1,12 +1,16 @@
 {
   "featured_posts": [
+    "/steemsilvergold/@ssg-community/what-steemian-is-special-to-you-answer-to-win-the-2019-steem-round",
     "/steem/@steem.marketing/get-featured-on-steemit-com",
-    "/steemit/@steem.marketing/tsp-interview-w-bobby-ong-coo-of-coingecko",
-    "/steemit/@steemitblog/account-approvals-enter-thrive-mode"
+    "/steemit/@steem.marketing/tsp-interview-w-bobby-ong-coo-of-coingecko"
+    
     
   ],
   "promoted_posts": [],
   "notices": [
+    {
+      "permalink": "/steemit/@steemitblog/account-approvals-enter-thrive-mode"
+    },
     {
       "permalink": "/smt/@steemitblog/smt-burnup-reward-payouts-tick-pricing-delegation-emission-funding"
     },
@@ -15,9 +19,6 @@
     },
     {
       "permalink":  "/beneficiaries/@steemitblog/new-beneficiary-features-on-steemit-com"
-    },
-    {
-      "permalink": "/tsp/@steem.marketing/the-steemit-podcast-interview-w-justinw-and-vandeberg"
     },
     {
       "permalink": "/smt/@steemitblog/part-3-of-our-plan-to-onboard-the-masses-smart-media-tokens"
