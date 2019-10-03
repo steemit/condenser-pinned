@@ -1,13 +1,15 @@
 {
   "featured_posts": [
+    "/steem/@nateaguila/live-best-steem-store-ever",
     "/steem/@steemitblog/blockchain-update-platform-independent-state-files",
-    "/smt/@vandeberg/smt-voting-mana-deep-dive",
-    "/steem/@steem.marketing/get-featured-on-steemit-com"
-    
+    "/smt/@vandeberg/smt-voting-mana-deep-dive"
     
   ],
   "promoted_posts": [],
   "notices": [
+    {
+      "permalink":  "/steem/@steem.marketing/get-featured-on-steemit-com"
+    },
     {
       "permalink": "/steemit/@steemitblog/account-approvals-enter-thrive-mode"
     },
@@ -16,9 +18,6 @@
     },
     {
       "permalink": "/hive/@steem.marketing/hive-communities-an-interview-w-steem-s-senior-product-engineer"   
-    },
-    {
-      "permalink":  "/beneficiaries/@steemitblog/new-beneficiary-features-on-steemit-com"
     },
     {
       "permalink": "/smt/@steemitblog/part-3-of-our-plan-to-onboard-the-masses-smart-media-tokens"
