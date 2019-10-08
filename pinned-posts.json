@@ -1,20 +1,21 @@
 {
   "featured_posts": [
+    "/newsletter/@steemitblog/announcing-the-steemit-newsletter",
     "/buildteam/@buildteam/start-your-christmas-shopping-early-with-steem-blockchain-merch",
-    "/steem/@steemitblog/blockchain-update-platform-independent-state-files",
-    "/smt/@vandeberg/smt-voting-mana-deep-dive"
+    "/steem/@steemitblog/blockchain-update-platform-independent-state-files"
+    
     
   ],
   "promoted_posts": [],
   "notices": [
     {
+      "permalink": "/smt/@vandeberg/smt-voting-mana-deep-dive"
+    },
+    {
       "permalink":  "/steem/@steem.marketing/get-featured-on-steemit-com"
     },
     {
       "permalink": "/steemit/@steemitblog/account-approvals-enter-thrive-mode"
-    },
-    {
-      "permalink": "/smt/@steemitblog/smt-burnup-reward-payouts-tick-pricing-delegation-emission-funding"
     },
     {
       "permalink": "/hive/@steem.marketing/hive-communities-an-interview-w-steem-s-senior-product-engineer"   
