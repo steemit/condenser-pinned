@@ -1,13 +1,16 @@
 {
   "featured_posts": [
+    "/steemstyle/@steemstyle-io/steemfest-2019-limited-shirt",
     "/newsletter/@steemitblog/announcing-the-steemit-newsletter",
-    "/buildteam/@buildteam/start-your-christmas-shopping-early-with-steem-blockchain-merch",
-    "/steem/@steemitblog/blockchain-update-platform-independent-state-files"
+    "/buildteam/@buildteam/start-your-christmas-shopping-early-with-steem-blockchain-merch"
     
     
   ],
   "promoted_posts": [],
   "notices": [
+    {
+      "permalink":  "/steem/@steemitblog/blockchain-update-platform-independent-state-files"   
+    },
     {
       "permalink": "/smt/@vandeberg/smt-voting-mana-deep-dive"
     },
@@ -16,9 +19,6 @@
     },
     {
       "permalink": "/steemit/@steemitblog/account-approvals-enter-thrive-mode"
-    },
-    {
-      "permalink": "/hive/@steem.marketing/hive-communities-an-interview-w-steem-s-senior-product-engineer"   
     },
     {
       "permalink": "/smt/@steemitblog/part-3-of-our-plan-to-onboard-the-masses-smart-media-tokens"
