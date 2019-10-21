@@ -1,18 +1,18 @@
 {
   "featured_posts": [
-    "/smt/@steemitblog/smt-testnet-is-live"
+    "/steem2020/@pennsif/steem2020-contest-update-1500-steem-prize-pool-and-judges-announced"
     
   ],
   "promoted_posts": [],
   "notices": [
     {
+      "permalink":  "/smt/@steemitblog/smt-testnet-is-live"
+    },
+    {
       "permalink": "/newsletter/@steemitblog/announcing-the-steemit-newsletter"
     },
     {
       "permalink":  "/steem/@steemitblog/blockchain-update-platform-independent-state-files"   
-    },
-    {
-      "permalink": "/smt/@vandeberg/smt-voting-mana-deep-dive"
     },
     {
       "permalink":  "/steem/@steem.marketing/get-featured-on-steemit-com"
