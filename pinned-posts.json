@@ -1,17 +1,18 @@
 {
   "featured_posts": [
+    "/steemfoundation/@steemalliance/steem-foundation-elections",
     "/bitcoin/@kingscrown/exclusive-for-steem-interview-with-coo-hoo-of-okex-andy-cheung",
-    "/delegationrenewal/@delegationtrust/delegation-renewal-recommendations-to-steemit",
-    "/iota/@steem.marketing/tsp-ep-14-interview-with-iota"
+    "/delegationrenewal/@delegationtrust/delegation-renewal-recommendations-to-steemit"
+    
     
   ],
   "promoted_posts": [],
   "notices": [
     {
-      "permalink":  "/smt/@steemitblog/smt-testnet-is-live"
+      "permalink": "/iota/@steem.marketing/tsp-ep-14-interview-with-iota"
     },
     {
-      "permalink": "/newsletter/@steemitblog/announcing-the-steemit-newsletter"
+      "permalink":  "/smt/@steemitblog/smt-testnet-is-live"
     },
     {
       "permalink":  "/steem/@steemitblog/blockchain-update-platform-independent-state-files"   
