@@ -1,11 +1,14 @@
 {
   "featured_posts": [
-    "/steemfest/@steemitblog/steemfest-recap-and-exciting-announcements"
-    
+    "/steemit/@steemitblog/happy-thanksgiving",
+    "/steem/@steemitblog/additional-smt-ico-flexibility"
     
   ],
   "promoted_posts": [],
   "notices": [
+    {
+      "permalink": "/steemfest/@steemitblog/steemfest-recap-and-exciting-announcements"
+    },
     {
       "permalink": "/smt/@steemitblog/initial-coin-offerings-with-smts"
     },
@@ -17,9 +20,6 @@
     },
     {
       "permalink":  "/steem/@steem.marketing/get-featured-on-steemit-com"
-    },
-    {
-      "permalink": "/smt/@steemitblog/part-3-of-our-plan-to-onboard-the-masses-smart-media-tokens"
     }
   ]
 }
