@@ -1,13 +1,15 @@
 {
   "featured_posts": [
-    "/steemit/@steemitblog/happy-thanksgiving",
-    "/steem/@steemitblog/additional-smt-ico-flexibility"
+    
     
   ],
   "promoted_posts": [
     "/paycent/@steem.marketing/paycent-integrates-steem"
   ],
   "notices": [
+    {
+      "permalink":  "/steem/@steemitblog/additional-smt-ico-flexibility"   
+    },
     {
       "permalink": "/steemfest/@steemitblog/steemfest-recap-and-exciting-announcements"
     },
@@ -16,9 +18,6 @@
     },
     {
       "permalink":  "/smt/@steemitblog/smt-testnet-is-live"
-    },
-    {
-      "permalink":  "/steem/@steemitblog/blockchain-update-platform-independent-state-files"   
     },
     {
       "permalink":  "/steem/@steem.marketing/get-featured-on-steemit-com"
