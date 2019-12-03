@@ -4,7 +4,9 @@
     "/steem/@steemitblog/additional-smt-ico-flexibility"
     
   ],
-  "promoted_posts": [],
+  "promoted_posts": [
+    "/paycent/@steem.marketing/paycent-integrates-steem"
+  ],
   "notices": [
     {
       "permalink": "/steemfest/@steemitblog/steemfest-recap-and-exciting-announcements"
